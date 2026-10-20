@@ -1,14 +1,16 @@
 
 <h1 align="center">Hey 👋, I'm Ashmit Sharma</h1>
+
 <h3 align="center">CSE Undergraduate | Aspiring Software Developer</h3>
 
 <p align="center">
   <a href="https://github.com/ashx-binary">
-    <img src="https://komarev.com/ghpvc/?username=ashx-binary&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://img.shields.io/badge/GitHub-ashx--binary-181717?style=flat&logo=github" alt="GitHub Profile"/>
   </a>
 </p>
 
 ---
+
 
 ### 👨‍💻 About Me
 
